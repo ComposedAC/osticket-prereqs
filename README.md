@@ -60,7 +60,7 @@ Step 3: Then you will extract the osTicket folder.
 <p>
 <img width="1000" height="481" alt="controlpanel" src="https://github.com/user-attachments/assets/e911657e-9162-48b9-8629-30beb9897743" /></p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 4: Go to the search bar and type "Control Panel".
 </p>
 <br />
 <p>
