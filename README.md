@@ -54,7 +54,7 @@ Step 2: Next you will click on the folder where the osTicket download is located
 
 <p><img width="557" height="722" alt="extractingfolder" src="https://github.com/user-attachments/assets/9c46325e-aa07-4f26-9f18-9c36864c09ac" /></p>
 <p>
-Step 3: Then you will extract the osTicket folder. 
+Step 3: Then you will extract the osTicket folder by right clicking it and selecting "Extract All". 
 </p>
 <br />
 <p>
@@ -63,25 +63,24 @@ Step 3: Then you will extract the osTicket folder.
 Step 4: Go to the search bar and type "Control Panel".
 </p>
 <br />
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><img width="1207" height="766" alt="clickprograms" src="https://github.com/user-attachments/assets/58470c8f-cad8-42a4-b785-4b870a141855" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 5: Click programs
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="761" height="544" alt="controlpanel#2" src="https://github.com/user-attachments/assets/6b599191-f7c9-4a7c-9032-e20135e7d52a" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 6: Click uninstall programs link
+</p>
+<br />
+<p><img width="594" height="515" alt="programinstall" src="https://github.com/user-attachments/assets/742863e7-8eb8-4142-8484-397af5c35a01" />
+</p>
+<p>
+Step 7: Click Turn Windows feature on or off
 </p>
 <br />
 <p>
